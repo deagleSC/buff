@@ -1,0 +1,41 @@
+.todo {
+    padding: 20px;
+    text-align: center;
+}
+
+.todoList {
+    border: 1px solid var(--buff-red);
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.todoList > * {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.newTodo {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.addButton {
+    padding: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: var(--buff-red);
+    color: white;
+    border: none;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.newTodoWrapper {
+    margin-top: 20px;
+}
+
+.todoItem {
+    
+}
